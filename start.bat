@@ -1,1 +1,0 @@
-ruby C:\Documents and Settings\maya\My Documents\GitHub\rkdevid/test.rb
